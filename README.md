@@ -25,6 +25,7 @@ print(x + y)
 
 ![kirby image](Kirby-star2.png)
 
+![doc_mario.png](doc_mario.png)
 
 <h2>References</h2>
 
