@@ -1,4 +1,4 @@
-# git and github laboratory
+# Git and github laboratory
 
 Git practice laboratory
 Fausto Izquierdo Vejar
@@ -10,6 +10,7 @@ Fausto Izquierdo Vejar
 
 
 <h2>References</h2>
-[Github documentation](https://docs.github.com/en)
-[Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+
+[Github documentation](https://docs.github.com/en)  
+[Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)  
 [Git documentation](https://git-scm.com/doc)
