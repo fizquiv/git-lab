@@ -6,7 +6,9 @@ Fausto Izquierdo Vejar
 <h2>Description</h2>
 
 <h2>Contents</h2>
-<h3>Image</h3>
+<h3>Images</h3>
+
+![kirby image](Kirby-star2.png)
 
 
 <h2>References</h2>
