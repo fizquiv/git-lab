@@ -6,6 +6,15 @@ Fausto Izquierdo Vejar
 <h2>Description</h2>
 
 <h2>Contents</h2>
+
+<h3>Code Examples</h3>
+
+```python
+x = 5
+y = 10
+print(x + y)
+```
+
 <h3>Images</h3>
 
 ![kirby image](Kirby-star2.png)
